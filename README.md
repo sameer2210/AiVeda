@@ -6,11 +6,16 @@ It blends classical Ayurvedic knowledge with Google Gemini AI to provide natural
 
 ## 🎥 Project Demo
 
-[▶ Demo](/public/chatscreen.png)
+![AiVeda Banner](/public/chatscreen.png)
+https://aiveda.netlify.app/
 
-(https://aiveda.netlify.app/)
+## 🎥 Live Demo
 
-[▶ Watch Demo](/public/aiveda.mp4)
+<p align="center">
+  <video width="800" controls>
+    <source src="https://raw.githubusercontent.com/USERNAME/REPO/main/docs/demo.mp4" type="video/mp4">
+  </video>
+</p>
 
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
